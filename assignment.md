@@ -15,20 +15,20 @@ the output.
 * Have a front page the HappiTails (index.html), with a title, and subltitle
   * *List* two clients on the main page, with links to the clients (client1.html, client2.html)
 
-  * The link to those clients should connect to a separate page with their name, age, gender, 
-    and the number of pets they have. 
+  * The link to those clients should connect to a separate page with their name, age, gender,
+    and the number of pets they have.
   * Each client should have one pet
-    * Include a link to the client's respective pets (pet1.html, pet2.html) 
-    * Create a link to the pet see a page with their names, breed, age, gender and 
+    * Include a link to the client's respective pets (pet1.html, pet2.html)
+    * Create a link to the pet see a page with their names, breed, age, gender and
       their favorite toys
   * The shelter page should also have links to the pets' pages (to the same
   pages above)
-  * We've made blank files with a suggested structure. 
+  * We've made blank files with a suggested structure.
 
-** Forking ** 
+** Forking **
 
 * Everyone needs to fork this repository to your own github usernmae, and commit
-there. **You will all be coding this assignment on your own** 
+there. **You will all be coding this assignment on your own**
 
-* Commit frequently with good commit messages. 
+* Commit frequently with good commit messages.
 * When you are ready to turn in, submit a pull request
